@@ -24,6 +24,6 @@ Perform initial data and exploratory analysis of some data to derive insights an
 * Summarize the project in Analysis Report 
 
 ## File Summary
-* [03 Scripts](03 Scripts): Contains all Python scripts used during project
-* [04 Analysis](04 Analysis): All visualizations created for review
-* [05 Sent to Client](05 Sent to Client): Final Analysis Report to summarize project
+* 03 Scripts: Contains all Python scripts used during project
+* 04 Analysis: All visualizations created for review
+* 05 Sent to Client: Final Analysis Report to summarize project
