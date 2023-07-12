@@ -23,4 +23,7 @@ Perform initial data and exploratory analysis of some data to derive insights an
 * Use Python libraries to create visualizations
 * Summarize the project in Analysis Report 
 
-## Script Summary
+## File Summary
+* 03 Scripts: Contains all Python scripts used during project
+* 04 Analysis: All visualizations created for review
+* 05 Sent to Client: Final Analysis Report to summarize project
