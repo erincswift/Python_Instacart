@@ -21,6 +21,7 @@ Perform initial data and exploratory analysis of some data to derive insights an
 * Create new variables to store aggregate functions using conditional logic
 * Create and append customer flags, such as loyalty flags
 * Use Python libraries to create visualizations
+* Use Python libraries to create correlation tables and heatmaps
 * Summarize the project in Analysis Report 
 
 ## File Summary
